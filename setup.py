@@ -14,7 +14,7 @@ setup(
     install_requires=requirements,
     include_package_data=True,
     package_data={
-        'Ramezanee-SUT-Task1': ["resources/*.wav", 'ckpts/*.ckpt', 'ckpts/*.*],
+        'Ramezanee-SUT-Task1': ["resources/*.wav", 'ckpts/*.ckpt', 'ckpts/*.*'],
     },
     python_requires='>=3.13',
 )
